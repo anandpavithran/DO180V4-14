@@ -1,0 +1,2 @@
+#!/usr/bin/bash 
+gluft /usr/lib/comset/$1
